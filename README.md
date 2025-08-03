@@ -8,7 +8,7 @@ A simple, clean, and responsive personal portfolio website built with **HTML** a
 
 ## 🌐 Live Demo
 
-> [Click here to view the live portfolio](#)  
+https://killarn-codes.github.io/Ian-Portfolio/
 
 ---
 
