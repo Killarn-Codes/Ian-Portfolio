@@ -91,6 +91,28 @@ nav {
   font-weight: 500;
 }
 
+.skill-category {
+  margin-bottom: 2rem;
+  text-align: left;
+  max-width: 700px;
+  margin-inline: auto;
+}
+
+.skill-category h3 {
+  color: #0077cc;
+  margin-bottom: 0.5rem;
+}
+
+.skill-category ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+}
+
+.skill-category li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
 
 /* Projects Section */
 .projects {
@@ -120,6 +142,17 @@ nav {
 .project-card h3 {
   color: #0077cc;
   margin-bottom: 0.5rem;
+}
+
+.project-card ul {
+  list-style: circle;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.project-card ul li {
+  margin-bottom: 0.3rem;
 }
 
 /* Contact Section */
